@@ -74,3 +74,8 @@ html{
 p {
     display: flex;
 }
+
+#img{
+    margin: 10px;
+    
+}
